@@ -14,3 +14,13 @@ https://leef6010.itch.io/projectkat
 - Chạy `Export PCK.bat`, mặc định sẽ tạo gói Việt hóa `translation_vi.pck` vào thư mục `D:\SteamLibrary\steamapps\common\Paper Lily - Project Kat\pack`. Có thể sửa lại file `Export PCK.bat` nếu cần.
 
 Tham khảo trang [bản dịch game](https://leef6010.itch.io/projectkat/devlog/315925/project-kat-translations) của nhà phát triển để biết thêm chi tiết.
+
+## Font sử dụng trong bản Việt hóa
+### Văn bản bình thường
+- [Alegreya SC](https://fonts.google.com/specimen/Alegreya+SC)
+- [Cabin](https://fonts.google.com/specimen/Cabin)
+- [SVN-Progs](https://www.svnfont.com/viet-hoa-svn-progs/)
+### Hình vẽ
+- [Segoe Print](https://learn.microsoft.com/vi-vn/typography/font-list/segoe-print)
+- SVN-Segoe Print
+- iCiel Be Cool
