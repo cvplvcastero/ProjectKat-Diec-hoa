@@ -1,4 +1,6 @@
 # Việt hóa game Project Kat - Paper Lily Prologue
+## Demo
+https://www.youtube.com/watch?v=9ET4dZbNtMo
 
 ## Nơi tải game
 https://store.steampowered.com/app/1698960/Project_Kat__Paper_Lily_Prologue <br>
