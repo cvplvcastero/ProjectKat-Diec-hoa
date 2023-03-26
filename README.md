@@ -7,7 +7,8 @@ https://leef6010.itch.io/projectkat
 ## Cài đặt gói Việt hóa
 - Tải file `translation_vi.pck` từ https://github.com/Meigyoku-Thmn/Project-Kat-Vietnamese-Translation/releases
 - Copy file này vào thư mục `pack` của thư mục cài game
-- Mở game lên, vào Settings > Game Settings > Language rồi đổi sang Tiếng Việt.
+- Mở game lên, game sẽ xác nhận có gói ngôn ngữ mới và yêu cầu khởi động lại.
+- Mở game lên lại, vào Settings > Game Settings > Language rồi đổi sang Tiếng Việt.
 
 ## Cách đóng gói và cài đặt (Nâng cao)
 - Đặt thêm 2 phần mềm là `godot.exe` và `godotpcktool.exe` vào thư mục chính, có thể tìm được trong bài [hướng dẫn dịch game](https://docs.google.com/document/d/1EvIIyEhHKRcq4UExLn-JIEYvh65HKF7CawheY4srLog) của nhà phát triển
