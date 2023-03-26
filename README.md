@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=9ET4dZbNtMo
 ## Nơi tải game
 https://store.steampowered.com/app/1698960/Project_Kat__Paper_Lily_Prologue <br>
 https://leef6010.itch.io/projectkat
+Phiên bản tương thích: v1.3.3
 
 ## Cài đặt gói Việt hóa
 - Tải file `translation_vi.pck` từ https://github.com/Meigyoku-Thmn/Project-Kat-Vietnamese-Translation/releases
