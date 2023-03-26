@@ -28,3 +28,11 @@ Tham khảo trang [bản dịch game](https://leef6010.itch.io/projectkat/devlog
 - [Segoe Print](https://learn.microsoft.com/vi-vn/typography/font-list/segoe-print)
 - SVN-Segoe Print
 - iCiel Be Cool
+
+## Ảnh chụp
+![](./screenshots/1.jpg)
+![](./screenshots/2.jpg)
+![](./screenshots/6.jpg) 
+![](./screenshots/3.jpg)
+![](./screenshots/4.jpg)
+![](./screenshots/5.jpg)
