@@ -32,7 +32,7 @@ Tham khảo trang [bản dịch game](https://leef6010.itch.io/projectkat/devlog
 ## Ảnh chụp
 ![](./screenshots/1.jpg)
 ![](./screenshots/2.jpg)
-![](./screenshots/6.jpg) 
+![](./screenshots/5.jpg)
 ![](./screenshots/3.jpg)
 ![](./screenshots/4.jpg)
-![](./screenshots/5.jpg)
+![](./screenshots/6.jpg)
