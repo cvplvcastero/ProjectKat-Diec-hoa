@@ -23,13 +23,13 @@ Tham khảo trang [bản dịch game](https://leef6010.itch.io/projectkat/devlog
 
 ## Font sử dụng trong bản Việt hóa
 ### Văn bản bình thường
-- [Alegreya SC](https://fonts.google.com/specimen/Alegreya+SC)
-- [Cabin](https://fonts.google.com/specimen/Cabin)
-- [SVN-Progs](https://www.svnfont.com/viet-hoa-svn-progs/)
+- [Alegreya SC](https://fonts.google.com/specimen/Alegreya+SC) (Tiêu đề của item)
+- [Cabin](https://fonts.google.com/specimen/Cabin) (Mặc định)
+- [SVN-Progs](https://www.svnfont.com/viet-hoa-svn-progs/) (Văn bản kinh dị)
 ### Hình vẽ
-- [Segoe Print](https://learn.microsoft.com/vi-vn/typography/font-list/segoe-print)
-- SVN-Segoe Print
-- iCiel Be Cool
+- [Segoe Print](https://learn.microsoft.com/vi-vn/typography/font-list/segoe-print) (Instruction 1)
+- SVN-Segoe Print (Instruction 1)
+- iCiel Be Cool (Instruction 2)
 
 ## Ảnh chụp
 ![](./screenshots/1.jpg)
