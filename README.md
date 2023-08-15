@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=9ET4dZbNtMo
 https://store.steampowered.com/app/1698960/Project_Kat__Paper_Lily_Prologue <br>
 https://leef6010.itch.io/projectkat
 
-Phiên bản tương thích: v1.3.3
+Phiên bản tương thích: v1.3.3 (không tương thích với phiên bản mới hơn, phiên bản mới hơn đã kèm sẵn bản dịch tiếng Việt này rồi).
 
 ## Cài đặt gói Việt hóa
 - Tải file `translation_vi.pck` từ https://github.com/Meigyoku-Thmn/Project-Kat-Vietnamese-Translation/releases
