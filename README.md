@@ -1,4 +1,4 @@
-# Việt hóa game Project Kat - Paper Lily Prologue
+# Bản dịch tiếng Việt game Project Kat - Paper Lily Prologue
 
 Lưu trữ, không tương thích với phiên bản mới của game.
 
