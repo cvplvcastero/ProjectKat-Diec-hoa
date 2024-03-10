@@ -16,11 +16,5 @@ rem Export the PCK file with the translation assets
 rem Add the definition files to the previously created PCK
 ..\godotpcktool.exe ..\translation_vi.pck -a a definitions
 
-rem Move to the start up folder
-cd ..
-
-rem Copy to game's pack folder
-copy translation_vi.pck "D:\SteamLibrary\steamapps\common\Paper Lily - Project Kat\pack" /y
-
-echo Done! If you see no errors above, then the translation.pck file should have been created.
+echo Done! If you see no errors above, then the translation_vi.pck file should have been created.
 pause
